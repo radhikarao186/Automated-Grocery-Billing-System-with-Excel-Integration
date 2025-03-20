@@ -1,1 +1,2 @@
 # Automated-Grocery-Billing-System-with-Excel-Integration
+Developed a Python grocery billing system incorporating Pandas and Excel that streamlines order processing and price management. The system retrieves data from Excel, processes billing calculations, and updates records cost-effectively with reduced manual error. Adopted error handling measures to ensure reliability and smooth execution. Automating invoice processing and data management, the system enhances efficiency, enabling grocery billing to be executed faster and more accurately.
